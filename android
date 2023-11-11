@@ -1,0 +1,3 @@
+function isAndroid(){
+return /(android)/i.test(navigator.userAgent);
+}isAndroid() = /(android)/i.test(navigator.userAgent);
